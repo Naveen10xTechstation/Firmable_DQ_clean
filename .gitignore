@@ -1,0 +1,7 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore SQLite and other DB files
+*.db
+# Ignore ZIP archives
+*.zip
